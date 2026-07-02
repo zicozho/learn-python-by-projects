@@ -1,7 +1,7 @@
 [Uploading README.md…]()
 # Python Core Project Drills
 
-这是一个把 Python 100 Days 前 20 天内容压缩成 **45 个实战小项目** 的练习仓库。
+这是一个把 Python 学习压缩为 **实战小项目** 的练习仓库。
 
 它不是按“第几天”学习，而是按“能做出什么东西”学习。
 
