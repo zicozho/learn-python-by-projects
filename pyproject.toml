@@ -1,0 +1,4 @@
+[tool.pytest.ini_options]
+testpaths = ["projects"]
+python_files = ["test_*.py"]
+addopts = "-q --import-mode=importlib"
